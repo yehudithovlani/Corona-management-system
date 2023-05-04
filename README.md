@@ -1,2 +1,2 @@
 # Corona-management-system
-מערכת ניהול קורונה לקופת חולים
+#This system is very important
